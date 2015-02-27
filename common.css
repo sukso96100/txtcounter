@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body{
+    font-family: 'Nanum Gothic', serif;
+}
+
+.wrap{
+    width: 100%;
+    max-width: 100%;
+}
+
+.largecard{
+    padding: 24px;
+    margin: 16px;
+}
